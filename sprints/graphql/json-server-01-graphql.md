@@ -29,9 +29,9 @@ Add GraphQL query and mutation support to JSON Server alongside the existing RES
 
 ## Technical Requirements
 
-- **Backend:** Node.js with Express
+- **Existing Stack:** JSON Server (Node.js/Express app)
 - **Database:** JSON file (db.json)
-- **GraphQL:** Use express-graphql, apollo-server-express, or similar
+- **GraphQL Library:** Add express-graphql, apollo-server-express, or similar
 
 ## Implementation Notes
 
